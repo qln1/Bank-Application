@@ -3,8 +3,8 @@ This is a banking application that can process various transactions and manage v
 
 <h2>About</h2>
 This banking application processes transactions which consists of 3 phases. <br />
-1. The program will read in a string of transactions from a file into an in-memory queue. These transactions can open accounts, withdraw funds, deposit funds, transfer funds, or ask for the transactional history to be printed.
-2. The program will next read from the queue and process the transactions in order.
+1. The program will read in a string of transactions from a file into an in-memory queue. These transactions can open accounts, withdraw funds, deposit funds, transfer funds, or ask for the transactional history to be printed. <br />
+2. The program will next read from the queue and process the transactions in order. <br />
 3. When the queue has been depleted the program will print out all open accounts and balances in those accounts.
 
 <h2>Goal and Requirements</h2>
