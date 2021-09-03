@@ -1,5 +1,5 @@
 # CSS-342-Bank-Application
-This is a banking application that can process various transactions and manage various accounts while using a queue.
+This is a banking application that can process various transactions and manage various accounts while using a queue and a binary search tree.
 
 <h2>About</h2>
 This banking application processes transactions which consists of 3 phases. <br />
